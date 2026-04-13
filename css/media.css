@@ -1,0 +1,134 @@
+
+
+@media (min-width: 576px) { }
+
+
+@media (min-width: 768px) {  }
+.special {
+    display: none;
+   overflow: hidden;
+}
+.OUR-GAMES .carousel-control-prev {
+    position: absolute;
+    left: 29%;
+     width: 30px;
+  height: 30px;
+
+}
+.OUR-GAMES .carousel-control-next {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 55%;
+}
+.OUR-GAMES .aside {
+    padding: 10px !important;
+    font-size: 10px;
+}
+.button-header-1 {
+    width: 100%;
+    margin-bottom: 30px;
+
+}
+.button-header-2 {
+    width: 100%;
+   margin-left: 0 !important;
+   margin-bottom: 20px;
+  
+    
+
+}
+header {
+
+   padding-bottom: 60px;
+}
+.move {
+    
+  right: 67%;
+}
+.title::after {
+   
+  left: 65%;
+}
+.title::before {
+     left: 13%;
+
+}
+.nav-sign {
+    display: none !important;
+}
+
+
+
+
+
+
+
+
+
+@media (min-width: 992px) {
+    .special {
+    display: block;
+}
+.OUR-GAMES .carousel-control-prev {
+    position: absolute;
+      left: 40%;
+    width: 55px;
+  height: 55px;
+
+}
+.OUR-GAMES .carousel-control-next {
+    width: 55px;
+  height: 55px;
+    position: absolute;
+     right: 50%;
+}
+.OUR-GAMES .aside {
+    padding-block:16px  !important;
+    font-size: 16px;
+}
+.button-header-1 {
+   width: inherit;
+  padding-inline: 1.5rem;
+  padding-block: 1rem;
+  margin-bottom: 0;
+
+}
+.button-header-2 {
+    width: inherit;
+   margin-left: 24px !important;
+   margin-bottom:0px;
+  
+  
+    
+
+}
+.move {
+     
+  right: 80%;
+}
+.title::after {
+   
+  left: 55%;
+}
+.title::before {
+     left: 37.5%;
+
+}
+.nav-sign {
+    display: flex !important;
+}
+
+
+
+
+
+
+
+ }
+
+
+@media (min-width: 1200px) {  }
+
+
+@media (min-width: 1400px) {  }
