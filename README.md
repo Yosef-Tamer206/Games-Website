@@ -4,8 +4,6 @@ A gaming community landing site: hero, games showcase, community call-to-action,
 
 **Live demo:** https://yosef-tamer206.github.io/Games-Website/
 
-![Games-Website screenshot](docs/screenshot.png)
-
 ## Features
 
 - Hero section with bold gaming artwork
